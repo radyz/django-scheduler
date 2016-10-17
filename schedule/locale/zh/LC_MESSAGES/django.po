@@ -189,3 +189,7 @@ msgstr ""
 #, python-format
 msgid "Day: %(start)s-%(end)s"
 msgstr ""
+
+#: apps.py:10
+msgid "Schedule"
+msgstr ""

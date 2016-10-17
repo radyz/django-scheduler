@@ -16,10 +16,6 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: apps.py:10
-msgid "Schedule"
-msgstr "Agenda"
-
 #: forms.py:18
 msgid "AM"
 msgstr "AM"
@@ -192,3 +188,7 @@ msgstr "Semana: %(start)s-%(end)s"
 #, python-format
 msgid "Day: %(start)s-%(end)s"
 msgstr "Día: %(start)s-%(end)s"
+
+#: apps.py:10
+msgid "Schedule"
+msgstr "Agenda"

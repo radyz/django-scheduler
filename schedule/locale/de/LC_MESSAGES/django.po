@@ -188,3 +188,7 @@ msgstr "Woche: %(start)s-%(end)s"
 #, python-format
 msgid "Day: %(start)s-%(end)s"
 msgstr "Tag: %(start)s-%(end)s"
+
+#: apps.py:10
+msgid "Schedule"
+msgstr ""

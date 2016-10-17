@@ -214,6 +214,7 @@ msgid "clear"
 msgstr "очистить"
 
 #: templates/profiles/schedule.html:4
+#: apps.py:10
 msgid "Schedule"
 msgstr "Расписание"
 

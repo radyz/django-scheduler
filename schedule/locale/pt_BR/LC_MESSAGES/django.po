@@ -222,6 +222,7 @@ msgid "Fullcalendar"
 msgstr "Calendário completo"
 
 #: .\templates\profiles\schedule.html:4
+#: apps.py:10
 msgid "Schedule"
 msgstr "Cronograma"
 

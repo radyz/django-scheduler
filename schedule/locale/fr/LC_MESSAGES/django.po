@@ -267,6 +267,7 @@ msgid "Delete"
 msgstr "Supprimer"
 
 #: templates/profiles/schedule.html:4
+#: apps.py:10
 msgid "Schedule"
 msgstr "Planifier"
 
